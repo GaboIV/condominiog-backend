@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "2.*",
+        "palanik/corsslim": "*"
+    },
+    "autoload": {
+        "classmap": ["piramide-uploader"]
+    }
+}
